@@ -1,0 +1,166 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 18px;
+    color: #00afef;
+}
+
+h2{
+    font-size: 16px;
+}
+
+#container{
+    width: 1170px;
+    margin: auto;
+}
+
+#logo{
+    width: 200px;
+    float:left;
+}
+
+#menu{
+    float:right;
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#menu a{
+    margin-left:15px;
+    text-decoration: none;
+    color: #000;
+}
+
+#menu a:hover{
+    color: #00afef;
+}
+
+#site_logo{
+    height: 100px;
+}
+
+#banner_area img{
+    width:100%;
+}
+
+#intro_content{
+    padding-top: 55px;
+    width:49%;
+    float:left;
+    
+}
+#welcome_area{
+    margin-top:30px;
+}
+
+#intro_image{
+    width:48%;
+    float:right;
+}
+#intro_image img{
+    width:100%;
+    
+}
+
+.btn{
+    background-color: #00afef;
+    color: #000;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+}
+
+.btn:hover{
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+}
+
+.clear{
+    clear:both;
+}
+
+#service_area{
+background-color: #f7fdff;
+
+padding-top: 50px;
+padding-bottom: 50px;
+
+}
+
+#service_heading{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.service_box{
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+
+.service_box img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#footer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.txt_form{
+    width: 90%;
+    height: 35px;
+    margin-bottom: 10px;
+    background-color: #f7fdff;
+    color: #00afef;
+}
+
+.map_box{
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+#mappin_area{
+width: 100%;
+}
+
+#msge_tab{
+    width:50%;
+    float:right;
+    margin-top: 50px;
+}
+
+
+#hosting_heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.hosting_box{
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+
+.hosting_box img{
+    width: 200px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+#web_content{
+    padding-top: 1px;
+    width:49%;
+    float:left;
+}
