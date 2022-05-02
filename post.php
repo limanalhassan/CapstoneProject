@@ -23,7 +23,7 @@ $to = 'limanalhassan@yahoo.com';
 $subject = 'Contact Form';
  $content = 'Fullname: '.$fullname.'<br>Email: '.$email.'<br>Phone: '.$phone.'<br>Category: '.$category.'<br>Message:<br>'.$message;
 
-mail($to,$content, "From: noreply@capstone.com");
+mail($to,$content, "From: noreply@capstoneproject.com");
 
 
     include('thankyou.html');
