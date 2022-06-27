@@ -9,7 +9,7 @@ $category = addslashes(mysqli_real_escape_string($conn, $_POST['category']));
 
 
 if(!$name || !$email || !$subject || !$message){
-    echo 'All information is required';
+    echo 'All information is required (Please fill all details)';
     exit;
 }
 
